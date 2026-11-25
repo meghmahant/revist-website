@@ -43,7 +43,7 @@ jobs:
           VITE_WEBSITE_URL: ${{ vars.VITE_WEBSITE_URL }}
           VITE_BUSINESS_EMAIL: ${{ vars.VITE_BUSINESS_EMAIL }}
           VITE_BUSINESS_PHONE: ${{ vars.VITE_BUSINESS_PHONE }}
-          VITE_LEAD_ENDPOINT: ${{ vars.VITE_LEAD_ENDPOINT }}
+          VITE_LEAD_ENDPOINT: ${{ vars.VITE_LEAD_ENDPOINT || 'https://revist-lead-proxy.megh-mahant123.workers.dev' }}
           VITE_CLIENT_DASHBOARD_URL: ${{ vars.VITE_CLIENT_DASHBOARD_URL }}
           VITE_PRIVACY_POLICY_VERSION: ${{ vars.VITE_PRIVACY_POLICY_VERSION }}
           VITE_TERMS_VERSION: ${{ vars.VITE_TERMS_VERSION }}

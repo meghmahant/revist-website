@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <rect width="120" height="120" rx="26" fill="#080D0B"/>
+  <!-- Bold R stem & bowl -->
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M23 42H48C59.8 42 67 48.2 67 57.8C67 65.2 62.2 70.6 54.4 72.5L68 97H54.2L41.8 73.6H35.5V97H23V42ZM35.5 52.2V63.8H47.2C52.6 63.8 55.2 61.5 55.2 58C55.2 54.5 52.6 52.2 47.2 52.2H35.5Z"
+    fill="#22C55E"
+  />
+  <!-- Sweeping return arc from leg to top arrowhead -->
+  <path
+    d="M57 93.8H71.5C87.8 93.8 98 78.2 98 58.2C98 37.8 87.2 24.5 69.5 24.5H56.5"
+    stroke="#22C55E"
+    stroke-width="6.4"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <!-- Hollow left-pointing return triangle -->
+  <path
+    d="M56.5 11.5L32.5 24.5L56.5 37.5V11.5Z"
+    fill="#080D0B"
+    stroke="#22C55E"
+    stroke-width="6"
+    stroke-linejoin="miter"
+  />
+</svg>

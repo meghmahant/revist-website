@@ -1,0 +1,6 @@
+name = "revist-lead-proxy"
+main = "cloudflare-worker.ts"
+compatibility_date = "2026-11-01"
+
+[vars]
+ALLOWED_ORIGIN = "https://therevist.in"

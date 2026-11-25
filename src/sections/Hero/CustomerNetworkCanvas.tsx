@@ -21,7 +21,7 @@ interface PulseWave {
   alpha: number;
 }
 
-const GUEST_NAMES = ['Rohan', 'Ananya', 'Karan', 'Meera', 'Vikram'];
+const GUEST_NAMES = ['customer_1', 'customer_2', 'customer_3', 'customer_4', 'customer_5'];
 
 export function CustomerNetworkCanvas() {
   const canvasRef = useRef<HTMLCanvasElement>(null);

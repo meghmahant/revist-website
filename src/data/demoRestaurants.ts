@@ -9,7 +9,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
     customers: [
       {
         id: 'UC-101',
-        name: 'Rahul Sharma',
+        name: 'customer_1',
         daysSinceLastVisit: 28,
         totalSpend: 4250,
         usualOrder: 'Cold Brew & Avocado Toast',
@@ -19,7 +19,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
       },
       {
         id: 'UC-102',
-        name: 'Ananya Deshmukh',
+        name: 'customer_2',
         daysSinceLastVisit: 22,
         totalSpend: 3180,
         usualOrder: 'Pesto Burrata Flatbread',
@@ -29,7 +29,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
       },
       {
         id: 'UC-103',
-        name: 'Vikram Nair',
+        name: 'customer_3',
         daysSinceLastVisit: 21,
         totalSpend: 6890,
         usualOrder: 'Pour-Over & Basque Cheesecake',
@@ -39,7 +39,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
       },
       {
         id: 'UC-104',
-        name: 'Meera Iyer',
+        name: 'customer_4',
         daysSinceLastVisit: 8,
         totalSpend: 5400,
         usualOrder: 'Iced Matcha & Croissant',
@@ -49,7 +49,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
       },
       {
         id: 'UC-105',
-        name: 'Karan Kapoor',
+        name: 'customer_5',
         daysSinceLastVisit: 35,
         totalSpend: 2740,
         usualOrder: 'Mushroom Truffle Pasta',
@@ -59,7 +59,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
       },
       {
         id: 'UC-106',
-        name: 'Priya Menon',
+        name: 'customer_6',
         daysSinceLastVisit: 41,
         totalSpend: 1950,
         usualOrder: 'Hazelnut Latte & Waffles',
@@ -69,7 +69,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
       },
       {
         id: 'UC-107',
-        name: 'Siddharth Rao',
+        name: 'customer_7',
         daysSinceLastVisit: 26,
         totalSpend: 4620,
         usualOrder: 'Smoked Chicken Bagel',
@@ -79,7 +79,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
       },
       {
         id: 'UC-108',
-        name: 'Neha Joshi',
+        name: 'customer_8',
         daysSinceLastVisit: 14,
         totalSpend: 3820,
         usualOrder: 'Vietnamese Iced Coffee',
@@ -89,7 +89,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
       },
       {
         id: 'UC-109',
-        name: 'Arjun Verma',
+        name: 'customer_9',
         daysSinceLastVisit: 52,
         totalSpend: 1480,
         usualOrder: 'Classic Cold Coffee',
@@ -99,7 +99,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
       },
       {
         id: 'UC-110',
-        name: 'Diya Kulkarni',
+        name: 'customer_10',
         daysSinceLastVisit: 4,
         totalSpend: 7920,
         usualOrder: 'Shakshuka & Sourdough',
@@ -109,7 +109,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
       },
       {
         id: 'UC-111',
-        name: 'Rohan Malhotra',
+        name: 'customer_11',
         daysSinceLastVisit: 31,
         totalSpend: 2310,
         usualOrder: 'Peri-Peri Fries & Mojito',
@@ -119,7 +119,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
       },
       {
         id: 'UC-112',
-        name: 'Tanvi Shetty',
+        name: 'customer_12',
         daysSinceLastVisit: 19,
         totalSpend: 3560,
         usualOrder: 'Cinnamon Roll & Cortado',
@@ -156,7 +156,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
     customers: [
       {
         id: 'SS-201',
-        name: 'Kabir Bansal',
+        name: 'customer_1',
         daysSinceLastVisit: 25,
         totalSpend: 9400,
         usualOrder: 'Smoked Dal & Garlic Naan',
@@ -166,7 +166,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
       },
       {
         id: 'SS-202',
-        name: 'Ishita Sen',
+        name: 'customer_2',
         daysSinceLastVisit: 11,
         totalSpend: 6150,
         usualOrder: 'Paneer Tikka Sourdough Pizza',
@@ -176,7 +176,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
       },
       {
         id: 'SS-203',
-        name: 'Devansh Patel',
+        name: 'customer_3',
         daysSinceLastVisit: 38,
         totalSpend: 4820,
         usualOrder: 'Ghee Roast & Appam',
@@ -186,7 +186,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
       },
       {
         id: 'SS-204',
-        name: 'Riya Chatterjee',
+        name: 'customer_4',
         daysSinceLastVisit: 22,
         totalSpend: 5290,
         usualOrder: 'Malabar Parotta Platter',
@@ -196,7 +196,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
       },
       {
         id: 'SS-205',
-        name: 'Nikhil Agarwal',
+        name: 'customer_5',
         daysSinceLastVisit: 17,
         totalSpend: 8340,
         usualOrder: 'Tandoori Broccoli & Kulcha',
@@ -206,7 +206,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
       },
       {
         id: 'SS-206',
-        name: 'Aditi Krishnan',
+        name: 'customer_6',
         daysSinceLastVisit: 46,
         totalSpend: 3700,
         usualOrder: 'Saffron Rasmalai & Biryani',
@@ -216,7 +216,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
       },
       {
         id: 'SS-207',
-        name: 'Harsh Vardhan',
+        name: 'customer_7',
         daysSinceLastVisit: 29,
         totalSpend: 7100,
         usualOrder: 'Butter Chicken & Butter Naan',
@@ -226,7 +226,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
       },
       {
         id: 'SS-208',
-        name: 'Sneha Gokhale',
+        name: 'customer_8',
         daysSinceLastVisit: 6,
         totalSpend: 11200,
         usualOrder: 'Chef Tasting Thali',
@@ -263,7 +263,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
     customers: [
       {
         id: 'RE-301',
-        name: 'Zoya Khan',
+        name: 'customer_1',
         daysSinceLastVisit: 33,
         totalSpend: 2890,
         usualOrder: 'Almond Croissant & Flat White',
@@ -273,7 +273,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
       },
       {
         id: 'RE-302',
-        name: 'Pranav Joshi',
+        name: 'customer_2',
         daysSinceLastVisit: 9,
         totalSpend: 4120,
         usualOrder: 'Sourdough Grilled Cheese',
@@ -283,7 +283,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
       },
       {
         id: 'RE-303',
-        name: 'Maya Subramanian',
+        name: 'customer_3',
         daysSinceLastVisit: 24,
         totalSpend: 3450,
         usualOrder: 'Iced Americano & Kouign-Amann',
@@ -293,7 +293,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
       },
       {
         id: 'RE-304',
-        name: 'Varun Bedi',
+        name: 'customer_4',
         daysSinceLastVisit: 21,
         totalSpend: 1980,
         usualOrder: 'Cappuccino & Pain au Chocolat',
@@ -303,7 +303,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
       },
       {
         id: 'RE-305',
-        name: 'Aisha Merchant',
+        name: 'customer_5',
         daysSinceLastVisit: 49,
         totalSpend: 1640,
         usualOrder: 'Pistachio Danish',
@@ -313,7 +313,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
       },
       {
         id: 'RE-306',
-        name: 'Kunal Deshpande',
+        name: 'customer_6',
         daysSinceLastVisit: 16,
         totalSpend: 5300,
         usualOrder: 'Single Origin Cold Brew',
@@ -323,7 +323,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
       },
       {
         id: 'RE-307',
-        name: 'Tara Bhattacharya',
+        name: 'customer_7',
         daysSinceLastVisit: 27,
         totalSpend: 2760,
         usualOrder: 'Cardamom Bun & Latte',
@@ -333,7 +333,7 @@ export const DEMO_RESTAURANTS: DemoRestaurant[] = [
       },
       {
         id: 'RE-308',
-        name: 'Omkar Sawant',
+        name: 'customer_8',
         daysSinceLastVisit: 3,
         totalSpend: 6410,
         usualOrder: 'Roast Chicken Focaccia',

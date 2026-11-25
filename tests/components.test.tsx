@@ -71,7 +71,7 @@ describe('Revist 2.0 Interactive Components', () => {
 
   it('enforces strictly greater-than inactivity threshold in Dashboard Demo', () => {
     renderWithProviders(<DashboardDemoSection />);
-    // Default threshold is 21: Vikram Nair (21d) is Active, Ananya Deshmukh (22d) is Inactive
+    // Default threshold is 21: customer_3 (21d) is Active, customer_2 (22d) is Inactive
     const slider = screen.getByLabelText(/Adjust inactivity threshold in days/i);
     fireEvent.change(slider, { target: { value: '20' } });
     expect(screen.getByText('> 20d')).toBeInTheDocument();
